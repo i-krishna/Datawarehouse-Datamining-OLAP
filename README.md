@@ -1,2 +1,2 @@
-# Datawarehouse-Analytics
+# Datawarehouse-Datamining-OLAP
 Lab course exercies 
